@@ -3,6 +3,9 @@
  ### **<u>Objective:</u>** The purpose of this project is to help an organization to improve employee performance and reduce attrition by creating an HR analytics dashboard. The dashboard provides valuable insights into employee data, which can be used to make data-driven decisions and improve employee satisfaction and retention.
 ![image](https://github.com/Tejas-Nakave/Power-Bi-Dashboard/assets/156461487/24ff35d3-38c0-4b6a-ac3a-26682f59031c)
 
+
+![HR analytics](https://github.com/monikajain1997/HR-Analytics-Dashboard/assets/121723520/6d3fdb4e-dec0-43ab-ae7e-c6f31080b34f)
+
 Data Source: The raw data for this project was obtained in the form of a CSV file with 38 columns and approximately 1.5k rows. The data contained information about employee demographics, job roles, salaries, and tenure, among others.
 
 Data Cleaning and Processing: Several steps were taken to prepare the data for analysis. Null values were removed and duplicate values were eliminated. Spelling errors were identified and corrected, and appropriate data types were assigned. Additionally, a conditional column was added for attrition count, which assigned a value of 1 for 'yes' and 0 for 'no' based on the attrition column. Furthermore, a new measure was created to calculate the attrition rate, which was derived by dividing the total attrition count by the total employee count.
